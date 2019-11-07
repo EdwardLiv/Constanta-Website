@@ -1,5 +1,6 @@
 # https://edwardliv.github.io/Constanta
-A single-page website about the city of Constanța.</br></br>
+![](https://i.imgur.com/THgKCww.png)</br></br>
+A single-page website about the city of Constanța.
 Libraries used:
 * [Bootstrap](https://getbootstrap.com)
 * [jQuery](https://jquery.com)
