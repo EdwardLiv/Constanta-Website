@@ -1,0 +1,22 @@
+.hover img {
+	opacity: 1;
+	transition: .3s ease-in-out;
+}
+.hover:hover img {
+	opacity: .5;
+}
+.parallax-window {
+    height: 700px;
+    margin-bottom: 100px;
+    background: transparent;
+}
+.hide-button {
+    visibility: hidden;
+}
+.harta path {
+	opacity: 1;
+	transition: .3s ease-in-out;
+}
+.harta a :hover {
+	opacity: .7;
+}

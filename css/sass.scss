@@ -1,0 +1,14 @@
+$color-blue: #2b4b7c;
+$color-lightblue: #e8eef9;
+.bg-sass-blue {
+    background-color: $color-blue !important;
+}
+.text-sass-blue {
+    color: $color-blue !important;
+}
+.bg-sass-lightblue {
+    background-color: $color-lightblue !important;
+}
+.text-sass-lightblue {
+    color: $color-lightblue !important;
+}
