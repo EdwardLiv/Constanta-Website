@@ -1,4 +1,4 @@
-# https://edwardliv.github.io/Constanta
+# https://edwardliv.github.io/ConstantaCity
 ![](https://i.imgur.com/THgKCww.png)</br></br>
 A single-page website about the city of Constanța.
 Libraries used:
