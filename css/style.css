@@ -13,6 +13,12 @@
 .hide-button {
     visibility: hidden;
 }
+.harta {
+    resize: 'horizontal';
+    overflow: 'hidden';
+    width: 'auto';
+    height: '1000px';
+}
 .harta path {
 	opacity: 1;
 	transition: .3s ease-in-out;
